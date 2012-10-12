@@ -21,9 +21,6 @@ import org.openide.windows.TopComponent;
 /**
  * Top component which displays something.
  */
-@ConvertAsProperties(
-    dtd = "-//de.markiewb.plugins.showlookupcontent//showlookupcontent//EN",
-autostore = false)
 @TopComponent.Description(
     preferredID = "showlookupcontentTopComponent",
 //iconBase="SET/PATH/TO/ICON/HERE", 
